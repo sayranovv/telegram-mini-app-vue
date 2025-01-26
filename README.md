@@ -1,1 +1,1 @@
-# Lizzard Clicker!
+# Pushok Clicker Game
